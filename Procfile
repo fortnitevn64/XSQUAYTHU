@@ -1,3 +1,1 @@
-worker:
-python
-quaythu_bot2.py
+worker: python quaythu_bot2.py
