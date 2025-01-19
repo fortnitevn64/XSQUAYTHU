@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 from collections import defaultdict
 
-TOKEN = '7618979983:AAGDWrAVf6NgNkBTa7dS-kmH0k5BbWHhNw8'
+TOKEN = '7222130189:AAG-WrF2_lAHYokGqFHcH3XRRqRdDpnYAb4'
 bot = telebot.TeleBot(TOKEN)
 
 # Biến để lưu số phiên hiện tại và tổng hợp số lần quay thử của người dùng
