@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 python-telegram-bot
 pytz
 schedule
+=======
+python-telegram-bot==20.0
+pytz
+requests
+>>>>>>> f3ffac0 (Initial commit)
